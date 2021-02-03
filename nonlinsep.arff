@@ -1,0 +1,13 @@
+@relation linsep
+@attribute a1 real
+@attribute a2 real
+@attribute class {0,1}
+@data
+-0.7, 0.7, 1
+-0.7, 0.1, 1
+0.7, 0.1, 1
+0.7, 0.7, 1
+-0.3, 0.3, 0
+0.3, 0.3, 0
+-0.3, -0.3, 0
+0.3, -0.3, 0
