@@ -12,7 +12,7 @@ import JavaScriptCore
 //  el.style.backgroundColor =  el.style.backgroundColor=="yellow" ? "inherit" : "yellow";
 // }
 //return document.getElementsByTagName('*');
-document.getElementsByClassName("form-group has-feedback formio-component formio-component-hidden formio-component-uuid uuid formio-component-label-hidden").innerHTML = hello;
-    
+//document.getElementsByClassName("form-group has-feedback formio-component formio-component-hidden formio-component-uuid uuid formio-component-label-hidden").innerHTML = hello;
+document.getElementById('uuid').innerHTML = "TestUUID" 
 //document.getElementsByClassName("col-form-label").innerHTML = hello;
 
